@@ -1,0 +1,8 @@
+#goned:checked  ~ .Green {
+    background-color: green;
+    color: white;
+}
+.Green {
+    background-color: none;
+
+}

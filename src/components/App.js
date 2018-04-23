@@ -13,7 +13,7 @@ class App extends Component {
 
         return (
             <div>
-                <Header className="card-title" style={{marginLeft:'3.5em'}} ><h1>Список задач</h1></Header>
+                <Header className="card-title" style={{marginLeft:'3.5em'}} >Список задач</Header>
                 {this._renderFilter(updateFilter)}
                 {this._renderTodos(todos)}
             </div>
